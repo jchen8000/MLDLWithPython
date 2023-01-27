@@ -6,6 +6,7 @@ RUN pip install matplotlib
 RUN pip install jupyterlab 
 RUN pip install sympy
 RUN pip install pandas
+RUN pip install scipy
 RUN pip install pydot
 RUN pip install scikit-learn 
 RUN pip install seaborn
