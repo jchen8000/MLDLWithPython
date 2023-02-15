@@ -10,4 +10,7 @@ RUN pip install scipy
 RUN pip install pydot
 RUN pip install scikit-learn 
 RUN pip install seaborn
+RUN pip install opencv-contrib-python
+RUN pip install opencv-python
+RUN pip install opencv-python-headless
 CMD ["/bin/bash"]
