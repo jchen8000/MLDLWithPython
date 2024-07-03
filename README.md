@@ -35,7 +35,7 @@ Refer to the book for guidance on using the code examples.
 
 ## License
 
-The contents of this repository are licensed under the MIT License. See the LICENSE file for more details.
+The contents of this repository are licensed under GPL-3.0 License. See the LICENSE file for more details.
 
 ## Contact
 
