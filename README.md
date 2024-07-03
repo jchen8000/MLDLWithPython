@@ -6,15 +6,15 @@ This repository contains the source code and accompanying materials for the book
 
 **Subtitle: Use Python Jupyter to Implement Mathematical Concepts, Machine Learning Algorithms and Deep Learning Neural Networks**
 
+**Author: James Chen (LinkedIn: [linkedin.com/in/jchen8000](https://www.linkedin.com/in/jchen8000/))**
+
 Available at:
 
 ISBN: 978-1-7389084-2-4 (eBook), [Amazon Kindle](https://www.amazon.com/dp/B0BV42L2YJ), [Apple Books](https://books.apple.com/us/book/demystifying-large-language-models/id6499347202),  [Google Play Books](https://play.google.com/store/books/details?id=JevIEAAAQBAJ)
 
-ISBN: 978-1-7389084-0-0 ([Paperback](https://www.amazon.com/dp/1738908402))
+ISBN: 978-1-7389084-0-0 (Paperback), [Amazon](https://www.amazon.com/dp/1738908402)
 
-ISBN: 978-1-7389084-1-7 ([Hardcover](https://www.amazon.com/dp/1738908410))
-
-Author: James Chen (LinkedIn: [linkedin.com/in/jchen8000](https://www.linkedin.com/in/jchen8000/))
+ISBN: 978-1-7389084-1-7 (Hardcover), [Amazon](https://www.amazon.com/dp/1738908410)
 
 
 ## Book Overview
