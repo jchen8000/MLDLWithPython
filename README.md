@@ -15,7 +15,7 @@ This repository contains the source code and accompanying materials for the book
 
 Available at:
 
-ISBN: 978-1-7389084-2-4 (eBook), [Amazon Kindle](https://www.amazon.com/dp/B0BV42L2YJ), [Apple Books](https://books.apple.com/us/book/demystifying-large-language-models/id6499347202),  [Google Play Books](https://play.google.com/store/books/details?id=JevIEAAAQBAJ)
+ISBN: 978-1-7389084-2-4 (eBook), [Amazon Kindle](https://www.amazon.com/dp/B0BV42L2YJ), [Apple Books](http://books.apple.com/us/book/id6450843779),  [Google Play Books](https://play.google.com/store/books/details?id=JevIEAAAQBAJ), [Rakuten Kobo](https://www.kobo.com/ca/en/ebook/machine-learning-and-deep-learning-with-python-1)
 
 ISBN: 978-1-7389084-0-0 (Paperback), [Amazon](https://www.amazon.com/dp/1738908402)
 
